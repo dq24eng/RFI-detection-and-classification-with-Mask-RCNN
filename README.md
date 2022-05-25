@@ -3,6 +3,8 @@ This software is capable of detecting and classifying radio frecuency interferen
 
 Specifically, this software detects every RFI present in the spectrogram and classify them as Narrow Band (NB), Intermediate Band (IB) or Wide Band (WB) according to their band width. This system, is a very useful tool for those professionals in charge of preventing the CART to damage because of powerful RFI, present in the location. Besides of detection and clasification, the software provides more data, like polarization, maximum power detected, azimuthal angle, central frecuency, bandwidth and delimitation in time of the RFI.
 
+Devolped by Dario Quinteros and Leandro Saldivar.
+
 # Results
 
 ![](Results/res1.PNG)
